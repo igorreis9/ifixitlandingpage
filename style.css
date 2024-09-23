@@ -56,7 +56,7 @@ section:not(#home) {
     background-image: url(https://valkyrie.cdn.ifixit.com/media/2023/06/29001230/About-Us-LP_Hero.jpg); /* Define uma imagem de fundo para o site */
     background-size: cover; /* Define o tamanho do background */
     background-repeat: no-repeat; /* Define a repetição da imagem de background */
-    color: ##ffffff; /* Define a cor do texto */
+    color: #ffffff; /* Define a cor do texto */
     height: 100vh; /* Define a altura do elemento */
     text-align: center; /* Define o alinhamento do texto */
     display: flex; /* Define a forma como o conteúdo é exibido */
